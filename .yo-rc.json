@@ -1,0 +1,11 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Ramin Ahmadi",
+      "unitTestsEnabled": false,
+      "useAzureAppInsights": false
+    },
+    "libraryName": "knowledgeApp",
+    "generator-version": "2.13.0-preview1"
+  }
+}
